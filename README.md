@@ -7,7 +7,7 @@ On Heroku: https://jpa02-austinmac.herokuapp.com/
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-austinmacmath
 
 
-# About this repo  
+# About this repo 
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
 
